@@ -13,6 +13,7 @@ public class MainActivity extends Activity
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		Log.e("淋湿","淋湿");
+		Log.e("淋湿","淋湿");
 	}
 
 
