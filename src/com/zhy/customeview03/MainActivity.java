@@ -15,6 +15,7 @@ public class MainActivity extends Activity
 		Log.e("淋湿","淋湿");
 		Log.e("淋湿","淋湿");
 		Log.e("FFFFFFF盘","日落西山红霞飞dddddvvvvvvv");
+		Log.e("FFFFFFF盘","日落西山红霞飞8888888");
 	}
 
 
