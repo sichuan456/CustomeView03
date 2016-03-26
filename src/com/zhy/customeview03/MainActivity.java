@@ -14,6 +14,7 @@ public class MainActivity extends Activity
 		setContentView(R.layout.activity_main);
 		Log.e("淋湿","淋湿");
 		Log.e("淋湿","淋湿");
+		Log.e("FFFFFFF盘","日落西山红霞飞");
 	}
 
 

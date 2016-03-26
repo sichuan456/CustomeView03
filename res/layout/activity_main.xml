@@ -28,5 +28,16 @@
         zhy:firstColor="#16A3FA"
         zhy:secondColor="#D20F02"
         zhy:speed="10" />
+		
+		<com.zhy.customeview03.view.CustomProgressBar
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        zhy:circleWidth="24dp"
+        android:layout_marginBottom="40dp"
+        zhy:firstColor="#16A3FA"
+        zhy:secondColor="#D20F02"
+        zhy:speed="10" />
 
 </RelativeLayout>

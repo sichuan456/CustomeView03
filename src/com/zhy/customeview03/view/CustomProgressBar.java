@@ -19,7 +19,7 @@ public class CustomProgressBar extends View
 	/**
 	 * 第一圈的颜色
 	 */
-	private int mFirstColor;
+	private int mFirstColor;;;;;;
 	/**
 	 * 第二圈的颜色
 	 */
