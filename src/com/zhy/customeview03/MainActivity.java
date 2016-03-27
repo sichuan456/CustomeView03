@@ -21,6 +21,7 @@ public class MainActivity extends Activity
 		Log.e("FFFFFFF盘","孙思佳eeeeeevvvv");
 		Log.d("李小龙","李小龙");
 		Log.d("李小龙dddddddddd","李小龙ddddddddddd");
+		Log.v("dddddddddddddddddddd","dddddddddddddddddd");
 	}
 
 
