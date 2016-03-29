@@ -12,14 +12,23 @@ public class MainActivity extends Activity
 	{
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		Log.e("淋湿","淋湿");
-		Log.e("淋湿","淋湿");
+		Log.e("淋湿ddddddddddd","淋湿ddddddddddddd");
+		Log.e("淋湿eee","淋湿eeeeee");
 		Log.e("FFFFFFF盘","日落西山红霞飞dddddvvvvvvv");
 		Log.e("FFFFFFF盘","日落西山红霞飞8888888");
 		Log.e("FFFFFFF盘","日落西山红霞飞777777777777777");
 		Log.e("FFFFFFF盘","日落西山红霞飞666666666666666666");
 		Log.e("FFFFFFF盘","孙思佳eeeeeevvvv");
-		Log.e("FFFFFFF盘","孙思佳主master");
+		Log.d("李小龙","李小龙");
+		Log.v("eeeeeeeeeeee","eeeeeeeeeeeeeee");
+		
+		Log.v("dddddddddddddddddddd","dddddddddddddddddd");
+		Log.w("wwwwwwwwwweeeeeeeeeeeeeeeeeeeeeeeee","wwwwwwwwwwwwwwwweeeeeeeeeeeeeee");
+<<<<<<< HEAD
+		Log.i("ee","eeee");
+=======
+		Log.i("dddd","ddd");
+>>>>>>> 99535ab06ac0df73b74d512c7f5fa6dc4aae347a
 	}
 
 
