@@ -24,11 +24,7 @@ public class MainActivity extends Activity
 		
 		Log.v("dddddddddddddddddddd","dddddddddddddddddd");
 		Log.w("wwwwwwwwwweeeeeeeeeeeeeeeeeeeeeeeee","wwwwwwwwwwwwwwwweeeeeeeeeeeeeee");
-<<<<<<< HEAD
-		Log.i("ee","eeee");
-=======
-		Log.i("dddd","ddd");
->>>>>>> 99535ab06ac0df73b74d512c7f5fa6dc4aae347a
+
 	}
 
 
